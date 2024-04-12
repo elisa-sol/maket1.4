@@ -107,10 +107,6 @@ footer {
     opacity: 1;
 }
 
-/*.contact {*/
-/*    transform: translateY(230px);*/
-/*}*/
-
 .contact__icons {
     display: flex;
     justify-content: space-around;
